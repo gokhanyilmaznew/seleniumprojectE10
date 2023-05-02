@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48af648c-2653-4a42-9c97-b7a0e8dcaef8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/BasicNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/CloseAndQuitBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/FullScreenMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/GettingPageTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByCSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByPartialLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByTagName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementsById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study_01/LocatePractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study_01/XpathPractice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J9KlSCo9KqAtPBFPtR9eJ7xcDr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "derby"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LocateElementByCSS">
+    <configuration name="BasicNavigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.BasicNavigation" />
+      <module name="seleniumprojectE10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocateElementByCSS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_locators_getText_getAttribute.LocateElementByCSS" />
+      <module name="seleniumprojectE10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2_locators_getText_getAttribute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocateElementByLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_locators_getText_getAttribute.LocateElementByLinkText" />
+      <module name="seleniumprojectE10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2_locators_getText_getAttribute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocateElementByXPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_locators_getText_getAttribute.LocateElementByXPath" />
+      <module name="seleniumprojectE10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2_locators_getText_getAttribute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatePractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study_01.LocatePractice1" />
+      <module name="seleniumprojectE10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LocateElementByCSS" />
+        <item itemvalue="Application.LocateElementByXPath" />
+        <item itemvalue="Application.BasicNavigation" />
+        <item itemvalue="Application.LocateElementByLinkText" />
+        <item itemvalue="Application.LocatePractice1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48af648c-2653-4a42-9c97-b7a0e8dcaef8" name="Changes" comment="" />
+      <created>1671485011765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671485011765</updated>
+      <workItem from="1671485013570" duration="4476000" />
+      <workItem from="1671490480761" duration="12000" />
+      <workItem from="1671491196612" duration="6000" />
+      <workItem from="1671519252516" duration="59000" />
+      <workItem from="1671519349996" duration="13000" />
+      <workItem from="1671519376682" duration="116000" />
+      <workItem from="1671519521891" duration="841000" />
+      <workItem from="1671535565719" duration="2055000" />
+      <workItem from="1671578296944" duration="939000" />
+      <workItem from="1671645146236" duration="883000" />
+      <workItem from="1671745369357" duration="642000" />
+      <workItem from="1672257910155" duration="1215000" />
+      <workItem from="1672309028582" duration="6570000" />
+      <workItem from="1672661268268" duration="2043000" />
+      <workItem from="1672768263813" duration="4361000" />
+      <workItem from="1672785391907" duration="113000" />
+      <workItem from="1672785517874" duration="421000" />
+      <workItem from="1672785959751" duration="361000" />
+      <workItem from="1672832450208" duration="652000" />
+      <workItem from="1672918806445" duration="3123000" />
+      <workItem from="1672932025543" duration="10481000" />
+      <workItem from="1673291436252" duration="1184000" />
+      <workItem from="1673352892013" duration="6939000" />
+      <workItem from="1673554088399" duration="2110000" />
+      <workItem from="1673558431206" duration="823000" />
+      <workItem from="1673559581741" duration="5000" />
+      <workItem from="1673559719680" duration="2005000" />
+      <workItem from="1673856505853" duration="1731000" />
+      <workItem from="1673874424670" duration="261000" />
+      <workItem from="1673874699422" duration="636000" />
+      <workItem from="1673899974619" duration="1057000" />
+      <workItem from="1673992950427" duration="4470000" />
+      <workItem from="1674074990614" duration="84000" />
+      <workItem from="1674215399061" duration="2387000" />
+      <workItem from="1674383927584" duration="6126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/CloseAndQuitBrowser.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByClassName.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day2_locators_getText_getAttribute/LocateElementByCSS</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
